@@ -2,15 +2,6 @@
 
 Учебный проект по УП.09.01. PHP 8 + MySQL (XAMPP), без фреймворков.
 
-## Запуск через XAMPP
-
-1. Скопировать папку `fraglab` в `C:\xampp\htdocs\`.
-2. В XAMPP Control Panel запустить **Apache** и **MySQL**.
-3. Открыть http://localhost/phpmyadmin → «Импорт» → выбрать `database/fraglab.sql`.
-4. Открыть http://localhost/fraglab/
-
-Для карты на странице «Контакты» вписать ключ из https://developer.tech.yandex.ru/ в `YANDEX_MAPS_KEY` в `config.php`.
-
 ## Тестовые учётные записи
 
 | Логин  | Пароль   | Роль          |
